@@ -6,7 +6,7 @@ Created on Tue Aug 29 00:06:18 2023
 """
 #########Adapt to your needs#########
 #########Take care of spaces in the commands#########
-#########make sure you have ffmpeg and mkvmerge#########
+#########Make sure you have ffmpeg and mkvmerge#########
 
 
 import subprocess
